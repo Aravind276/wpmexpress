@@ -12,5 +12,19 @@
     "http-errors": "~1.6.3",
     "jade": "^0.29.0",
     "morgan": "^1.10.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravind276/wpm_project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravind276/wpm_project1/issues"
+  },
+  "homepage": "https://github.com/Aravind276/wpm_project1#readme",
+  "description": ""
 }
